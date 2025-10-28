@@ -1,0 +1,7 @@
+{
+  "name": "MeetWhiz Dashboard",
+  "description": "A dashboard to manage the MeetWhiz AI assistant for WhatsApp. View meeting summaries, track action items, and configure your groups.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
